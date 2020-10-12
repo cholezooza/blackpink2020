@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0, tvg-name="YOUTUBR SONG UPDATE" tvg-logo="https://www.freepnglogos.com/uploads/blackpink-logo-png/blackpink-music-fanart-fanart-1.png" group-title="|KR| SONG", BLACKPINK 2020
+https://barsurl.com/blackpink2020
